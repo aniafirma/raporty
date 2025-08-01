@@ -1,6 +1,6 @@
 Needed packages:
-streamlit
-requests
+streamlit,
+requests,
 python-dotenv
 
 Create a .env file with:
